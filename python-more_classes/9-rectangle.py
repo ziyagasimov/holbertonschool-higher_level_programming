@@ -4,6 +4,7 @@ perimeter, string representation, comparison, and creation of squares.
 """
 
 
+
 class Rectangle:
     """Represents a rectangle."""
 
